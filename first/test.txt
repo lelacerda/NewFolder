@@ -2,3 +2,4 @@ my frist file
 my second line
 My third line is going to conflict
 my fourth line
+
