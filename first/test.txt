@@ -1,4 +1,5 @@
 my frist file
 my second line
 My third line is going to conflict
-jhakjsbckabjklab
+my fourth line
+
